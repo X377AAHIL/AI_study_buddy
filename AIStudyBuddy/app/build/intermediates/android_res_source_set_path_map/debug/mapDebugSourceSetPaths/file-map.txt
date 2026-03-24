@@ -1,0 +1,7 @@
+com.student.aistudybuddy.app-pngs-0 /Users/aahilshaaravg/Files/AI_study_buddy/AIStudyBuddy/app/build/generated/res/pngs/debug
+com.student.aistudybuddy.app-updated_navigation_xml-1 /Users/aahilshaaravg/Files/AI_study_buddy/AIStudyBuddy/app/build/generated/updated_navigation_xml/debug
+com.student.aistudybuddy.app-packageDebugResources-2 /Users/aahilshaaravg/Files/AI_study_buddy/AIStudyBuddy/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.student.aistudybuddy.app-packageDebugResources-3 /Users/aahilshaaravg/Files/AI_study_buddy/AIStudyBuddy/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.student.aistudybuddy.app-debug-4 /Users/aahilshaaravg/Files/AI_study_buddy/AIStudyBuddy/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.student.aistudybuddy.app-debug-5 /Users/aahilshaaravg/Files/AI_study_buddy/AIStudyBuddy/app/src/debug/res
+com.student.aistudybuddy.app-main-6 /Users/aahilshaaravg/Files/AI_study_buddy/AIStudyBuddy/app/src/main/res

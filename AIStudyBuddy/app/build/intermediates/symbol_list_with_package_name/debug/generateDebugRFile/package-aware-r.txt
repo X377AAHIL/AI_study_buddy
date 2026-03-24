@@ -1,0 +1,2 @@
+com.student.aistudybuddy
+string app_name
